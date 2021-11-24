@@ -4,7 +4,7 @@
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou aprimorando meus conhecimentos em desenvolvimento web. 
 - 👯 Estou em busca de estágio ou oportunidades de projetos para aprimorar meus conhecimentos.
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/luiz-fernando-porto-146b582b/  ![icone-instagram](https://user-images.githubusercontent.com/90430137/143303205-9fd4fb47-0715-47c8-93c6-cf5ec026753f.png)
+- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/luiz-fernando-porto-146b582b/  https://cdn.icon-icons.com/icons2/1584/PNG/128/3721672-instagram_108066.png
 Instagram: @luiz_fernando_porto
 - ⚡ Hobbies: Gosto de video-game, esportes, tecnologia, anime, séries e documentários.
 --> <div>
