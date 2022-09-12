@@ -12,3 +12,4 @@ Instagram: @luiz_fernando_porto
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfporto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<a href="https://app.daily.dev/luipilam"><img src="https://api.daily.dev/devcards/a9ca2d70f4494a4fb97d6017ae94058c.png?r=7nr" width="400" alt="Luiz Fernando Porto's Dev Card"/></a>
