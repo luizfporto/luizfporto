@@ -1,7 +1,7 @@
 ### Eu sou Luiz Fernando Porto  �
 
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas.
+- 🔭 Formado em  Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou aprimorando meus conhecimentos em desenvolvimento web. 
 - 👯 Estou em busca de estágio ou oportunidades de projetos para aprimorar meus conhecimentos.
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/luiz-fernando-porto-146b582b/  
