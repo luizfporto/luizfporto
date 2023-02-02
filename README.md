@@ -1,12 +1,13 @@
-### Eu sou Luiz Fernando Porto  �
+# Eu sou Luiz Fernando Porto, uma pessoa talentosa e ambiciosa que busca sempre aprimorar seus conhecimentos e habilidades.
 
+## Formado em Análise e Desenvolvimento de Sistemas, tenho uma paixão pelo mundo digital e estou constantemente buscando maneiras de me desenvolver ainda mais na área.
 
-- 🔭 Formado em  Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou aprimorando meus conhecimentos em desenvolvimento web. 
-- 👯 Estou em busca de estágio ou oportunidades de projetos para aprimorar meus conhecimentos.
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/luiz-fernando-porto-146b582b/  
-Instagram: @luiz_fernando_porto
-- ⚡ Hobbies: Gosto de video-game, esportes, tecnologia, anime, séries e documentários.
+## Atualmente, estou focando em meu aprendizado de desenvolvimento web e buscando por oportunidades de estágios ou projetos que possam me ajudar a evoluir ainda mais.
+
+## Com uma mentalidade aberta e curiosa, eu adoro explorar novas tecnologias e tendências, além de ter uma grande paixão por jogos eletrônicos, esportes, anime, séries e documentários. Essa mistura de interesses e habilidades me torna uma pessoa única e versátil, capaz de enfrentar desafios e solucionar problemas de maneira eficiente.
+
+## Se você está buscando alguém dedicado e apaixonado pelo que faz, não hesite em me procurar. Você pode me encontrar no LinkedIn, com o perfil https://www.linkedin.com/in/luiz-fernando-porto-146b582b/, ou no Instagram @luiz_fernando_porto. Estou sempre aberto a novas oportunidades e a trocar ideias com outros profissionais da área. Vamos juntos descobrir o que o futuro digital nos reserva!
+
 --> <div>
   <a href="https://github.com/luizfporto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
