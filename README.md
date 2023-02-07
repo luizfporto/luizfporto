@@ -6,7 +6,10 @@
 
 ### Com uma mentalidade aberta e curiosa, eu adoro explorar novas tecnologias e tendências, além de ter uma grande paixão por jogos eletrônicos, esportes, anime, séries e documentários. Essa mistura de interesses e habilidades me torna uma pessoa única e versátil, capaz de enfrentar desafios e solucionar problemas de maneira eficiente.
 
-### Se você está buscando alguém dedicado e apaixonado pelo que faz, não hesite em me procurar. Você pode me encontrar no LinkedIn, com o perfil https://www.linkedin.com/in/luiz-fernando-porto-146b582b/, ou no Instagram @luiz_fernando_porto. Estou sempre aberto a novas oportunidades e a trocar ideias com outros profissionais da área. Vamos juntos descobrir o que o futuro digital nos reserva!
+### Se você está buscando alguém dedicado e apaixonado pelo que faz, não hesite em me procurar. 
+Você pode me encontrar no LinkedIn, com o perfil https://www.linkedin.com/in/luiz-fernando-porto-146b582b/
+, ou no Instagram @luiz_fernando_porto. 
+Estou sempre aberto a novas oportunidades e a trocar ideias com outros profissionais da área. Vamos juntos descobrir o que o futuro digital nos reserva!
 
 --> <div>
   <a href="https://github.com/luizfporto">
