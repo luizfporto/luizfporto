@@ -11,10 +11,5 @@ Você pode me encontrar no LinkedIn, com o perfil https://www.linkedin.com/in/lu
 , ou no Instagram @luiz_fernando_porto. 
 Estou sempre aberto a novas oportunidades e a trocar ideias com outros profissionais da área. Vamos juntos descobrir o que o futuro digital nos reserva!
 
---> <div>
-  <a href="https://github.com/luizfporto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfporto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <a href="https://app.daily.dev/luipilam"><img src="https://api.daily.dev/devcards/a9ca2d70f4494a4fb97d6017ae94058c.png?r=7x3" width="400" alt="Luiz Fernando Porto's Dev Card"/></a>
 <div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-Y0z0d5zw8YBc4A25-1.gif' border='0' alt='contador'></a>
